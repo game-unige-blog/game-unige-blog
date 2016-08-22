@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post!
-tags: [random, exciting-stuff]
+subtitle: GAME has a blog now
 ---
 
 This is my first post, how exciting!

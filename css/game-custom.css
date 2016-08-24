@@ -1,0 +1,15 @@
+.navbar-right {
+  margin-right: 10px;
+}
+
+.navbar>.container-fluid .navbar-brand  {
+  margin-left: 10px;
+}
+
+/*
+There are a couple of additional divs etc I defined but am not using yet
+
+  - intro (for intro text on landing page)
+
+*/
+

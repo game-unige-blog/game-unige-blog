@@ -18,8 +18,8 @@ description: This is the blog of GAME, the association of PhD students at GSEM U
 
 # List of links in the navigation bar
 navbar-links:
+  Blog: "blog"  
   About Us: "aboutme"
-  Blog: "blog"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"

@@ -6,7 +6,11 @@
   margin-left: 10px;
 }
 
+
+a {
+  color: #808080;
 }
+
 a:link,
 a:visited
 a:active {

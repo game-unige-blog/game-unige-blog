@@ -11,6 +11,12 @@ a {
   color: #808080;
 }
 
+a:hover,
+a:focus {
+  color: #0085a1;
+  text-decoration: none;
+}
+
 /*
 There are a couple of additional divs etc I defined but am not using yet
 

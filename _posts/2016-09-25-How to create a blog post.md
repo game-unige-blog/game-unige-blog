@@ -1,10 +1,10 @@
-----
+---
 layout: posts
 title: How to create a blog post on the GAME blog
 subtitle: Using Github's desktop client and a text editor
 author: Steffen
 tags: GAME, blog, howto
-----
+---
 
 Adding a post to our blog is simple and open to all registered members of GAME. The blog is hosted on [https://pages.github.com](Github pages) and anyone with a Github account can push new articles directly to our repo. 
 
@@ -14,7 +14,7 @@ To create a blog entry, open the folder containing the website and navigate to t
 
     2016-10-26-The title of my blog entry.md
 
-To edit your blog entry, either open the file in your favorite text editor (I use [https://macromates.com](textmate)) and edit the header (the stuff between the ---) to include your *title*, *author*, and *tags* information. Then remove the text below the header and start writing. The blog uses markdown for formatting. It's the same stuff that e.g. wikipedia or stackoverflow use for text formatting and it's pretty straight forward once your tried it once. There's a good tutorial with the basics on [https://guides.github.com/features/mastering-markdown/](Github itself). You can also use [http://markitdown.medusis.com](this converter) to convert your formatted text into markdown, in case you've already written something in MS Word or on your wordpress blog or so. 
+To edit your blog entry, either open the file in your favorite text editor (I use [https://macromates.com](textmate)) and edit the header (the stuff between the "---") to include your *title*, *author*, and *tags* information. Then remove the text below the header and start writing. The blog uses markdown for formatting. It's the same stuff that e.g. wikipedia or stackoverflow use for text formatting and it's pretty straight forward once your tried it once. There's a good tutorial with the basics on [https://guides.github.com/features/mastering-markdown/](Github itself). You can also use [http://markitdown.medusis.com](this converter) to convert your formatted text into markdown, in case you've already written something in MS Word or on your wordpress blog or so. 
 
 Now you're almost done. The last thing to do is to send the changes you made on your computer to your Github account online (this is called a *commit*), and then to add the files to our website repo (this is called a *merge*). In the Github Desktop client, check the new file you created and add a bit of information in the two boxes below so we know what you're adding. Then hit *Commit to master* and then *Sync*, which will upload your changes to your copy (your "fork") of the website's repo. It should look something like this:
 

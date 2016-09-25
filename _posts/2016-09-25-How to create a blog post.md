@@ -18,7 +18,7 @@ To edit your blog entry, either open the file in your favorite text editor (I us
 
 Now you're almost done. The last thing to do is to send the changes you made on your computer to your Github account online (this is called a *commit*), and then to add the files to our website repo (this is called a *merge*). In the Github Desktop client, check the new file you created and add a bit of information in the two boxes below so we know what you're adding. Then hit *Commit to master* and then *Sync*, which will upload your changes to your copy (your "fork") of the website's repo. It should look something like this:
 
-[Github commit example](img/blog/github_commit_example.png)
+[Github commit example]({{ site.baseurl }}/img/blog/github_commit_example.png)
 
 Now, click the merge icon on top of the window to send your changes to our repo. We'll get a notification and will then add your new post asap. 
 

@@ -6,7 +6,7 @@ author: Steffen
 tags: GAME blog howto
 ---
 
-Adding a post to our blog is simple and open to all registered members of GAME. The blog is hosted on [https://pages.github.com](Github pages) and anyone with a Github account can push new articles directly to our repo. 
+Adding a post to our blog is simple and open to all registered members of GAME. The blog is hosted on [Github pages](https://pages.github.com) and anyone with a Github account can push new articles directly to our repo. 
 
 To do so, [sign up on Github](https://github.com/join) and install their [desktop client](https://desktop.github.com). Next, open our [repository](https://github.com/game-unige-blog/game-unige-blog.github.io), where the website is stored, and click the button in the top-right corner that says **Fork**. This will create a copy of our website in your github repository. Using the desktop client, you can then download the copy to your computer and start editing. 
 

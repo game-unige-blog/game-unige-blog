@@ -1,7 +1,9 @@
 ---
-layout: posts
+layout: post
 title: How to create a blog post
 subtitle: Using Github's desktop client and a text editor
+author: Steffen
+tags: GAME, blog, howto
 ---
 
 Adding a post to our blog is simple and open to all registered members of GAME. The blog is hosted on [https://pages.github.com](Github pages) and anyone with a Github account can push new articles directly to our repo. 

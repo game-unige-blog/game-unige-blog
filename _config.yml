@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # Basics
-url: "/"
+url: "https://game-unige-blog.github.io/"
 baseurl: ""
 
 # Name of website

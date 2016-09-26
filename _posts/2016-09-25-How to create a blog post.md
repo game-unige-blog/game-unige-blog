@@ -20,6 +20,6 @@ Now you're almost done. The last thing to do is to send the changes you made on 
 
 ![Github commit example]({{ site.baseurl }}/img/blog/github_commit_example.png)
 
-Now, click the merge icon on top of the window to send your changes to our repo. We'll get a notification and will then add your new post asap. 
+Now, click the merge icon on top of the window to send your changes to our repo. We'll get a notification and will then add your new post asap.
 
 If that's too complicated, you can also always send your blog posts to game@unige.ch.

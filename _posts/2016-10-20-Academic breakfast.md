@@ -17,4 +17,4 @@ Have a good week,
 
 Your GAME committee
 
-[1]: game-unige-blog.github.io/files/GAME_presentation.pdf "Presentation"
+[1]: https://game-unige-blog.github.io/files/GAME_presentation.pdf "Presentation"
